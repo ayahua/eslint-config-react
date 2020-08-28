@@ -1,13 +1,13 @@
-# eslint-config-react
+# eslint-react
 
 Assuming you already have ESLint installed, run:
 
 ```sh
 # npm
-npm install eslint-config-react --save-dev
+npm install eslint-react --save-dev
 
 # yarn
-yarn add eslint-config-react --dev
+yarn add eslint-react --dev
 ```
 
 Then extend the recommended eslint config:
@@ -16,6 +16,6 @@ Then extend the recommended eslint config:
 {
   "extends": [
     // ...
-    "eslint-config-react"
+    "eslint-react"
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "name": "eslint-config-react",
-  "version": "0.0.1",
-  "description": "react eslint规范",
+  "name": "eslint-react",
+  "version": "0.0.2",
+  "description": "ESlint rules for React",
   "main": "index.js",
   "scripts": {
     "test": "eslint ./test/*.js --rulesdir ."
