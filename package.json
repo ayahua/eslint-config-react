@@ -1,6 +1,6 @@
 {
-  "name": "eslint-react",
-  "version": "0.0.2",
+  "name": "eslint-config-react-aya",
+  "version": "0.0.1",
   "description": "ESlint rules for React",
   "main": "index.js",
   "scripts": {
