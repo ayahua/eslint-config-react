@@ -1,5 +1,5 @@
 # eslint-config-react-aya
-![image](https://img.shields.io/badge/eslint-%5E7.7.0-blue) ![image](https://img.shields.io/badge/packagist-v0.0.2-yellow)
+![](https://img.shields.io/badge/eslint-%5E7.7.0-blue) ![](https://img.shields.io/badge/packagist-v0.0.2-yellow)
 
 
 Assuming you already have ESLint installed, run:
